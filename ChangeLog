@@ -1,6 +1,8 @@
 CHANGES
 =======
 
+* fix(core): removes trailing blank lines
+
 0.1.0+2
 -------
 
