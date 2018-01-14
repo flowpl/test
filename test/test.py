@@ -5,3 +5,4 @@ print(result.text)
 print('another output')
 print('another')
 
+print('version')
