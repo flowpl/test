@@ -6,3 +6,4 @@ print('another output')
 print('another')
 
 print('version')
+
