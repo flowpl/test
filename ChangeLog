@@ -1,5 +1,9 @@
 CHANGES
 =======
 
+0.1.0+2
+-------
+
+* feat(core): adds another output line
 * feat(core): adds another line of output
 * feat(core): initial commit
