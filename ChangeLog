@@ -1,6 +1,11 @@
 CHANGES
 =======
 
+0.1.1+3
+-------
+
+* feat(core): prints version information
+* fix(core): adds another blank line
 * fix(core): removes trailing blank lines
 
 0.1.0+2
